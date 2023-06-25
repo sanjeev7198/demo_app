@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark p-2">
-    <a class="navbar-brand" href="#">Demo App</a>
+    <a class="navbar-brand" href="/">Demo App</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -12,9 +12,6 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/signin">SignIn</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
         </li>
       </ul>
     </div>
